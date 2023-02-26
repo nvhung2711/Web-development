@@ -1,0 +1,42 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+h2 {
+    color: whitesmoke;
+    text-align: center;
+    border: 5px solid whitesmoke;
+    cursor: pointer;
+}
+
+p {
+    color: whitesmoke;
+    text-decoration: underline;
+    text-transform: lowercase;
+    line-height: 20px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 100%;
+    font-family: monospace, Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+    float: left;
+}
+
+footer {
+    color: white;
+    clear: both;
+    text-align: center;
+}
+
+li {
+    color: whitesmoke;
+    list-style: none;
+    display: inline-block;
+}
+
+.webtext {
+    border: 5px dashed green;
+}
